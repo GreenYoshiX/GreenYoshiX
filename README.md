@@ -1,8 +1,8 @@
 Hi there 👋
-🔭 I’m currently working on ...   A fun (hopefully) 2D video game that spreads the gospel of Jesus Christ! Hosted by Gustav!
+🔭 I’m currently working on ...   A (hopefully) fun 2D video game that spreads the gospel of Jesus Christ! I would like it to be in the style of role playing/open world. Hosted by Gustav!
 [Gustav](https://github.com/GreenYoshiX/GreenYoshiX/assets/148284948/58218b51-5e7f-47ce-9670-71dde215bf19)!   Not the best picture of him...
 
-🌱 I’m currently learning ...     Continually learning coding (particularly Python) and gaining tech knowledge in general. I'm fairly new to the scene and excited to learn.
+🌱I'm fairly new to the scene and excited to learn. I mostly use Python, but am learning other languages as I go.
 All praises be to the Lord our God!
 
 Yahweh is my shepherd; I shall not want --- Psalm 23:1 (LSB)
