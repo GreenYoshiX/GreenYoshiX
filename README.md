@@ -1,5 +1,6 @@
 Hi there 👋
-🔭 I’m currently working on ...   A (hopefully) fun 2D video game that spreads the gospel of Jesus Christ! I would like it to be in the style of role playing/fantasy/open world game. Hosted by Gustav!
+🔭 I’m currently working on ...  
+A (hopefully) fun 2D video game that spreads the gospel of Jesus Christ! I would like it to be in the style of role playing/fantasy/open world game. Hosted by Gustav!
 [Gustav](https://github.com/GreenYoshiX/GreenYoshiX/assets/148284948/58218b51-5e7f-47ce-9670-71dde215bf19)!   Not the best picture of him...
 
 
@@ -7,7 +8,7 @@ Hi there 👋
 🌱I'm fairly new to the scene and excited to learn. I mostly use Python, but am learning other languages as I go. 
 All praises be to the Lord our God!
 
-Yahweh is my shepherd; I shall not want --- Psalm 23:1 (LSB)
+"Yahweh is my shepherd; I shall not want." --- Psalm 23:1 (LSB)
 
 "In the beginning was the Word, and the Word was with God and the Word was God." --- John 1:1 (KJV)
 
