@@ -1,12 +1,12 @@
 Hi there 👋
-🔭 I’m currently working on ...  
+I’m currently working on ...  
 A (hopefully) fun 2D video game that spreads the gospel of Jesus Christ! I would like it to be in the style of role playing/fantasy/open world game. Hosted by Gustav!
 [Gustav](https://github.com/GreenYoshiX/GreenYoshiX/assets/148284948/58218b51-5e7f-47ce-9670-71dde215bf19)!   Not the best picture of him...
 
 Powered by ☕❣️
 
-🌱I'm fairly new to the scene and excited to learn. I am a budding python developer. I have also been teaching myself design on Krita.
-All praises be to the Lord our God! 🙏
+🌱I'm fairly new to the scene and excited to learn. I am a budding python developer who enjoys writing in markdown. I have also been teaching myself design on Krita.
+All praises be to the Lord our God❣️ 🙏
 
 "**Yahweh** is my shepherd; I shall not want." --- Psalm 23:1 (LSB)
 
