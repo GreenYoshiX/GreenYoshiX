@@ -1,6 +1,6 @@
 Hi there 👋
 I’m currently working on ...  
-A (hopefully) fun 2D video game that spreads the gospel of Jesus Christ! I would like it to be in the style of role playing/fantasy/open world game. Hosted by Gustav!
+A (hopefully) fun 2D video game that spreads the gospel of Jesus Christ! I would like it to be in the style of role playing/fantasy/open world game. Hosted by
 [Gustav](https://github.com/GreenYoshiX/GreenYoshiX/assets/148284948/58218b51-5e7f-47ce-9670-71dde215bf19)!   Not the best picture of him...
 
 Powered by ☕❣️
