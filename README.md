@@ -6,6 +6,7 @@ A (hopefully) fun 2D video game that spreads the gospel of Jesus Christ! I would
 Powered by ☕❣️
 
 🌱I'm fairly new to the scene and excited to learn. I am a budding <img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/> developer who enjoys writing in <img width="64" height="64" src="https://img.icons8.com/nolan/64/markdown.png" alt="markdown"/> 
+
 I have also been teaching myself design on Krita.
 All praises be to the Lord our God❣️ 🙏
 
