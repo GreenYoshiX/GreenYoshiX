@@ -5,7 +5,7 @@ A (hopefully) fun 2D video game that spreads the gospel of Jesus Christ! I would
 
 Powered by ☕❣️
 
-🌱I'm fairly new to the scene and excited to learn. I am a budding python developer who enjoys writing in markdown. I have also been teaching myself design on Krita.
+🌱I'm fairly new to the scene and excited to learn. I am a budding python <a  href="https://icons8.com/icon/uLDrtp8o8zTG/python">Python</a> icon by <a href="https://icons8.com">Icons8</a>developer who enjoys writing in markdown. I have also been teaching myself design on Krita.
 All praises be to the Lord our God❣️ 🙏
 
 "**Yahweh** is my shepherd; I shall not want." --- Psalm 23:1 (LSB)
