@@ -1,6 +1,6 @@
 Hi there 👋
 I’m currently working on ...  
-A (hopefully) fun 2D video game that spreads the gospel of Jesus Christ! <img width="64" height="64" src="https://img.icons8.com/nolan/64/bible-app.png" alt="bible-app"/>
+A (hopefully) fun 2D video game that spreads the **gospel of Jesus Christ!** <img width="64" height="64" src="https://img.icons8.com/nolan/64/bible-app.png" alt="bible-app"/>
 
 The goal is to make the game in the style of role playing/fantasy/open world game. Hosted by
 [Gustav](https://github.com/GreenYoshiX/GreenYoshiX/assets/148284948/58218b51-5e7f-47ce-9670-71dde215bf19)!   Not the best picture of him...
