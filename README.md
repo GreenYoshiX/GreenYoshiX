@@ -1,5 +1,5 @@
 Hi there 👋
-I’m currently working on ...  
+I’m currently working on ⤵  
 A (hopefully) fun 2D video game that spreads the **gospel of Jesus Christ!** <img width="64" height="64" src="https://img.icons8.com/nolan/64/bible-app.png" alt="bible-app"/>
 
 The goal is to make the game in the style of role playing/fantasy/open world game. Hosted by
